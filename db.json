@@ -1,0 +1,40 @@
+{
+    "gioi_thieu":[
+        {"id":"1", "ten":"Cung Cấp Sản Phẩm Với Mức Giá Cả Phải Chăng", 
+          "hinh":"https://petstation.vn/upload/khac/vs1-6501.png"},
+        {"id":"2", "ten":"Nhân Viên Tư Vấn Nhiệt Tình, Am Hiểu Về Thú Cưng", 
+          "hinh":"https://petstation.vn/upload/khac/vs3-0048.png"},
+        {"id":"3", "ten":"Cung Cấp Sản Phẩm Chất Lượng", 
+          "hinh":"https://petstation.vn/upload/khac/vs2-1809.png"},
+        {"id":"4", "ten":"Cung Cấp Sản Phẩm Đa Dạng, Phong Phú", 
+          "hinh":"https://petstation.vn/upload/khac/vs4-7317.png"}
+],
+    "dich_vu":[
+        {"id":"1", "ten":"Dịch vụ khách sạn", 
+          "hinh":"https://i.imgur.com/9wW5YHL"},
+        {"id":"2", "ten":"Dịch vụ spa-grooming", 
+          "hinh":"https://i.imgur.com/8AtbcKS"},
+        {"id":"3", "ten":"Dịch vụ khác", 
+          "hinh":"https://i.imgur.com/ztivEzN"}
+    ],
+    "lien_he":[
+        {"id":"1", "ten":"Địa chỉ: Toà F, Quận 12, TP.HCM" },
+        {"id":"2", "ten":"Email: duyd31760@gmail.com" },
+        {"id":"3", "ten":"Hotline: 0902751819" }
+    ],
+    "san_pham":[
+        {"id":"1", "ten":"Thức ăn cho mèo con RoYAL CANIN Kitten", 
+          "hinh":"https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-con-royal-canin-kitten-400x400.jpg"},
+        {"id":"2", "ten":"Súp thưởng cho mèo CIAO Hairball Control vị thịt gà", 
+          "hinh":"https://www.petmart.vn/wp-content/uploads/2021/05/sup-thuong-cho-meo-ciao-hairball-control-tieu-bui-long-400x400.jpg"}, 
+        {"id":"3", "ten":"Pate cho mèo vị nước sốt cá ngừ WHISKAS Tuna Flavour Sauce", 
+          "hinh":"https://www.petmart.vn/wp-content/uploads/2013/05/pate-cho-meo-vi-nuoc-sot-ca-ngu-whiskas-tuna-flavour-sauce1-400x400.jpg"}, 
+        {"id":"4", "ten":"Cát vệ sinh hưu cơ cho mèo CATS BEST Original", 
+          "hinh":"https://www.petmart.vn/wp-content/uploads/2020/12/cats-best-original-400x400.jpg"}, 
+        {"id":"5", "ten":"Túi đựng chó mèo ANIME hình hoạ tiết White Cats", 
+          "hinh":"https://www.petmart.vn/wp-content/uploads/2016/09/tui-dung-cho-meo-anime-hinh-hoa-tiet-white-cats-400x400.jpg"}, 
+        {"id":"6", "ten":"Ổ đệm cho chó mèo PAW hình dưa hấu", 
+          "hinh":"https://www.petmart.vn/wp-content/uploads/2020/12/o-dem-cho-cho-meo-paw-hinh-dua-hau-400x400.jpg"} 
+    ]
+    }
+    

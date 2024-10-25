@@ -1,0 +1,38 @@
+* { margin: 0; padding:0 ; box-sizing: border-box;}
+a { text-decoration: none;}
+html { scroll-behavior: smooth;}
+nav { background: #ffb900; height: 60px; line-height: 60px; 
+      text-align: center; position: sticky; top:0; left:0}
+nav a { color: rgb(0, 0, 0); font-size: 1.2em; font-weight: 600; margin: auto 10px; }
+nav a:hover { color: rgb(255, 255, 255)}
+#gioi_thieu { background-color: #ffffff;  padding-top: 40px; }
+#gioi_thieu > h2 { color: #ff8000; text-align: center;  text-transform: uppercase; } 
+#gioi_thieu #data { display: flex; flex-wrap: wrap; justify-content: space-between; }
+#gioi_thieu #data  > div { width: 23%; text-align: center; font-size: 1.2em; margin: 10px; }
+#gioi_thieu #data  > div  h4 { color: #002160; } 
+#gioi_thieu #data  > div  img { width: 60%; height: 120px; margin: 10px; }
+#gioi_thieu #data  > div  img:hover { transform: scale(1.1); cursor: pointer;}
+
+#san_pham { background-color: #ffb900;  padding-top: 40px; }
+#san_pham > h2 { color:#000000; text-align: center;  text-transform: uppercase; } 
+#san_pham #data { display: flex;  flex-wrap: wrap; justify-content: space-between;}
+#san_pham #data  > div { width: 30%; text-align: center; font-size: 1.2em; margin: 10px; }
+#san_pham #data  > div  h4{  color: #000000; } 
+#san_pham #data  > div  img { width: 90%; height: 450px; margin: 10px; border-radius: 30px; }
+
+#dich_vu { background-color: #ffffff;  padding-top: 40px; }
+#dich_vu > h2 { color: #ff8000; text-align: center;  text-transform: uppercase; } 
+#dich_vu #data { display: flex; flex-wrap: wrap; justify-content: space-between;}
+#dich_vu #data  > div { width: 22%; text-align: center; font-size: 1.2em; margin: 20px 0;}
+#dich_vu #data  > div  h4 { color: #000000; } 
+#dich_vu #data  > div  img {
+    width: 95%; height: 360px; margin: 10px; border: 1px solid #002160; border-radius: 20px;}
+#lien_he { background-color: #ffb900;  padding-top: 40px; }
+#lien_he > h2 { color:#000000; text-align: center;  text-transform: uppercase;} 
+#lien_he #data { width: 80%; margin:auto; }
+#lien_he #data  > div {
+    font-size: 1.5em;   display: flex; justify-content: space-between;
+    padding: 10px; }
+#lien_he #data  > div  h4{  color: #000000; } 
+footer { background: #ffb900; height: 60px; text-align: center; line-height: 60px;
+         color: rgb(0, 0, 0); font-size: 1.5em; }
