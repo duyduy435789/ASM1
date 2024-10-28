@@ -6,7 +6,7 @@ type TGioiThieu = {
 } 
 type TSanPham = { 
     id:number;  
-    ten:string; 
+    ten:string; Í
     hinh:string; 
 }
 type TDichVu = { 
@@ -16,8 +16,8 @@ type TDichVu = {
 }
 type TLienHe = { 
     id:number;  
-    ten:string; 
-    gia:number; 
+    ten:string;
+    hinh:string; 
 }
 const showlistgioithieu = async ()=>{
     let arr:TGioiThieu[] = await fetch(API_URL + "/gioi_thieu")
@@ -75,6 +75,7 @@ const showlistlienhe = async ()=>{
 }
 const show1lienhe = (lh:TLienHe) => { 
     return `<div>
+    <img src="${lh.hinh}">
     <h4>${lh.ten}</h4>
     </div> `;
 }
