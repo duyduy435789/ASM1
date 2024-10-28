@@ -1,4 +1,5 @@
 {
+    {
     "gioi_thieu":[
         {"id":"1", "ten":"Cung Cấp Sản Phẩm Với Mức Giá Cả Phải Chăng", 
           "hinh":"https://petstation.vn/upload/khac/vs1-6501.png"},
@@ -11,19 +12,19 @@
 ],
     "dich_vu":[
         {"id":"1", "ten":"Dịch vụ khách sạn", 
-          "hinh":"https://i.imgur.com/9wW5YHL"},
+          "hinh":"https://st3.depositphotos.com/9782616/37178/v/450/depositphotos_371782802-stock-illustration-concept-pet-house-building-temporary.jpg"},
         {"id":"2", "ten":"Dịch vụ spa-grooming", 
-          "hinh":"https://i.imgur.com/8AtbcKS"},
+          "hinh":"https://static.vecteezy.com/system/resources/previews/008/128/674/non_2x/animal-grooming-logo-with-comb-and-scissors-in-the-shape-of-a-dog-paws-vector.jpg"},
         {"id":"3", "ten":"Dịch vụ khác", 
-          "hinh":"https://i.imgur.com/ztivEzN"}
+          "hinh":"https://i.pinimg.com/564x/fb/ea/a2/fbeaa272a7c6d406931c1dde08afa017.jpg"}
     ],
     "lien_he":[
-        {"id":"1", "ten":"Địa chỉ: Toà F, Quận 12, TP.HCM" },
-        {"id":"2", "ten":"Email: duyd31760@gmail.com" },
-        {"id":"3", "ten":"Hotline: 0902751819" }
+        {"id":"1", "ten":"Địa chỉ: Toà F, Quận 12, TP.HCM"},
+        {"id":"2", "ten":"Email: duyd31760@gmail.com"},
+        {"id":"3", "ten":"Hotline: 0902751819"}
     ],
     "san_pham":[
-        {"id":"1", "ten":"Thức ăn cho mèo con RoYAL CANIN Kitten", 
+        {"id":"1", "ten":"Thức ăn cho mèo con RoYAL CANIN Kitten",
           "hinh":"https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-con-royal-canin-kitten-400x400.jpg"},
         {"id":"2", "ten":"Súp thưởng cho mèo CIAO Hairball Control vị thịt gà", 
           "hinh":"https://www.petmart.vn/wp-content/uploads/2021/05/sup-thuong-cho-meo-ciao-hairball-control-tieu-bui-long-400x400.jpg"}, 
@@ -34,7 +35,19 @@
         {"id":"5", "ten":"Túi đựng chó mèo ANIME hình hoạ tiết White Cats", 
           "hinh":"https://www.petmart.vn/wp-content/uploads/2016/09/tui-dung-cho-meo-anime-hinh-hoa-tiet-white-cats-400x400.jpg"}, 
         {"id":"6", "ten":"Ổ đệm cho chó mèo PAW hình dưa hấu", 
-          "hinh":"https://www.petmart.vn/wp-content/uploads/2020/12/o-dem-cho-cho-meo-paw-hinh-dua-hau-400x400.jpg"} 
+          "hinh":"https://www.petmart.vn/wp-content/uploads/2020/12/o-dem-cho-cho-meo-paw-hinh-dua-hau-400x400.jpg"},
+        {"id":"7", "ten":"Thuốc bổ sung canxi cho chó VEGEBRAND Goat Milk Calcium Tablet",
+          "hinh":"https://www.petmart.vn/wp-content/uploads/2016/01/thuoc-bo-sung-canxi-cho-vegebrand-goat-milk-calcium-tablet.jpg"},
+        {"id":"8", "ten":"Balo đựng chó mèo trong suốt hình động vật LOFFE Animal Backpack", 
+          "hinh":"https://www.petmart.vn/wp-content/uploads/2021/08/balo-dung-cho-meo-trong-suot-hinh-dong-vat-loffe-animal-backpack.jpg"}, 
+        {"id":"9", "ten":"Sữa tắm cho chó mèo trắng lông TROPICLEAN Spa Lavish White Coat Pet Shampoo", 
+          "hinh":"https://www.petmart.vn/wp-content/uploads/2023/04/sua-tam-cho-cho-meo-trang-long-tropiclean-spa-white-coat-pet-shampoo.jpg"}, 
+        {"id":"10", "ten":"Chuồng sắt cho chó mèo mái chóp IRIS OHYAMA HCA-900S", 
+          "hinh":"https://www.petmart.vn/wp-content/uploads/2019/06/chuong-sat-cho-cho-meo-co-mai-iris-hca-900s.jpg"}, 
+        {"id":"11", "ten":"Gel dinh dưỡng cho mèo hỗ trợ miễn dịch GIMCAT Multi-Vitamin Paste", 
+          "hinh":"https://www.petmart.vn/wp-content/uploads/2023/04/gel-dinh-duong-cho-meo-ho-tro-mien-dich-gimcat-multi-vitamin-paste-768x769.jpg"}, 
+        {"id":"12", "ten":"Snack bánh thưởng cho mèo vị thịt bò GIMCAT Nutri Pockets Beef Treats", 
+          "hinh":"https://www.petmart.vn/wp-content/uploads/2023/04/snack-banh-thuong-cho-meo-vi-thit-bo-gimcat-nutri-pockets-beef-treats.jpg"}
     ]
     }
     
