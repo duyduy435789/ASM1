@@ -6,7 +6,7 @@ type TGioiThieu = {
 } 
 type TSanPham = { 
     id:number;  
-    ten:string; 
+    ten:string; Í
     hinh:string; 
 }
 type TDichVu = { 
